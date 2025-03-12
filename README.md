@@ -1,4 +1,4 @@
-# Simple Web Server with Futuristic Page
+# Simple Web Server
 
 This project is a simple web server written in C.
 
